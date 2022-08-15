@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debojit Mitra</h1>
 <h3 align="center">Learning🤪</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🌱 I’m currently learning **Android App Development, UI/UX Designing, Kotlin, Java, many more... 🤭**
 
@@ -8,8 +10,6 @@
 - 📫 How to reach me **bunny16github@gmail.com**
 
 - ⚡ Fun fact **I think I am dumb and always forget things😬**
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
