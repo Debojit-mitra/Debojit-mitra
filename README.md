@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Debojit Mitra</h1>
 <h3 align="center">Learning🤪</h3>
 
+- 🌱 I’m currently learning **Android App Development, UI/UX Designing, Kotlin, Java, many more... 🤭**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Debojit-mitra](https://github.com/Debojit-mitra)
+
+- 📫 How to reach me **bunny16github@gmail.com**
+
+- ⚡ Fun fact **I think I am dumb and always forget things😬**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/its_me_debojit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_debojit" height="30" width="40" /></a>
