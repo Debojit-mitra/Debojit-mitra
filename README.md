@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think I am dumb and always forget things😬**
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0YtdmRNaHZFcE9SWmNoUDAyVXR4SEp2VjRmUXxBQ3Jtc0tsYWk3ZnVIbFFWU2tEQWE2SzFuVXFWM0k4cDBCTjlVZ0x1TTY0MGp1VDU0NDdsQXlieWM0NWI3VVRnaGtGMDUxZWJfS1RPMzdHVEYwUFh0czJHcS0wYzYyckdJX285YzFtME5qUC1tU3NPQXY4bW5Paw&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
