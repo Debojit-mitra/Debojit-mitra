@@ -1,9 +1,7 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F75A5A&random=false&width=435&lines=Android+Developer;GenAI;Web+Developer)](https://git.io/typing-svg)
+
 🌱 I’m currently learning Android App Development, UI/UX Designing, Kotlin, Java, Python and GenAI many more... 🤭<br>👨‍💻 All of my projects are available at https://github.com/Debojit-mitra<br>📫 How to reach me bunny16github@gmail.com<br>⚡ Fun fact I am dumb and I always forget things😬
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_debojit) 
